@@ -31,7 +31,7 @@ I'm a **17-year-old developer** from **Sri Lanka** 🇱🇰, deeply passionate a
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DarkForceFREEFIRE&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkForceFREEFIREE&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkForceFREEFIRE&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" height="150" />
 </p>
 
 ---
