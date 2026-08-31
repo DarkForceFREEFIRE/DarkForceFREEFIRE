@@ -3,7 +3,9 @@
 <p align="center">
   You are the 
   <a href="https://github.com/DarkForceFREEFIRE" target="_blank">
-    <img src="https://count.getloli.com/get/@DarkForceFREEFIRE?theme=booru-lewd" alt="Visitor Counter">
+    <img src="https://count.getloli.com/get/@DarkForceFREEFIRE?theme=booru-lewd" 
+         alt="Visitor Counter" 
+         referrerpolicy="no-referrer">
   </a> 
   th visitor!
 </p>
